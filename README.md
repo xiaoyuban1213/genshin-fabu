@@ -13,4 +13,9 @@
 
 [2.6客户端本体](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20220318210005_l9zBcCngXHqIrxpk/YuanShen_2.6.0.zip)  [2.6中文语音包](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20220318210005_l9zBcCngXHqIrxpk/Audio_Chinese_2.6.0.zip)
 
+# 2.8以及新版本
+
+正常情况下，会白屏或者4214报错
+我们需要安装补丁，具体的不说了
+
 ### 其他版本自己找去
